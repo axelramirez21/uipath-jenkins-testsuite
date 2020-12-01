@@ -64,5 +64,8 @@
   "UiPath.UIAutomationNext.Activities.SearchStepsAA.FullSelector": "True",
   "UiPath.UIAutomationNext.Activities.SearchStepsAA.IgnoreSelectorsWithIdx": "True",
   "UiPath.UIAutomationNext.Activities.SearchStepsWnd.FullSelector": "True",
-  "UiPath.UIAutomationNext.Activities.SearchStepsWnd.IgnoreSelectorsWithIdx": "True"
+  "UiPath.UIAutomationNext.Activities.SearchStepsWnd.IgnoreSelectorsWithIdx": "True",
+  "UiPath.UIAutomationNext.Activities.SearchStepsWeb.InteractionMode": "Simulate",
+  "UiPath.UIAutomationNext.Activities.ApplicationCard.UserDataFolderMode": "Automatic",
+  "UiPath.UIAutomationNext.Activities.ApplicationCard.UserDataFolderPath": ""
 }

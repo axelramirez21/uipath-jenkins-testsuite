@@ -3,10 +3,10 @@
   "description": "Test Automation Project",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[20.4.0-beta.889657]",
-    "UiPath.Testing.Activities": "[1.0.0-beta.887571]",
-    "UiPath.UIAutomation.Activities": "[20.4.1]",
-    "UiPath.UIAutomationNext.Activities": "[20.4.0-preview]"
+    "UiPath.System.Activities": "[20.10.1]",
+    "UiPath.Testing.Activities": "[1.2.4]",
+    "UiPath.UIAutomation.Activities": "[20.10.6]",
+    "UiPath.UIAutomationNext.Activities": "[20.4.3]"
   },
   "webServices": [],
   "entitiesStores": [],

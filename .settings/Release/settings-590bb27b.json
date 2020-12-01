@@ -18,5 +18,9 @@
   "UiPath.UiAutomation.Activities.MicrosoftAzureComputerVisionOCR.Language": "AutoDetect",
   "UiPath.OmniPage.Activities.OmniPageOCR.Scale": "1",
   "UiPath.OmniPage.Activities.OmniPageOCR.Language": "",
-  "UiPath.OmniPage.Activities.OmniPageOCR.Profile": "None"
+  "UiPath.OmniPage.Activities.OmniPageOCR.Profile": "None",
+  "UiPath.OCR.Activities.UiPathScreenOCR.Endpoint": "https://ocr.uipath.com/",
+  "UiPath.OCR.Activities.UiPathScreenOCR.ApiKey": "",
+  "UiPath.OCR.Activities.UiPathDocumentOCR.Endpoint": "https://du.uipath.com/ocr",
+  "UiPath.OCR.Activities.UiPathDocumentOCR.ApiKey": ""
 }
